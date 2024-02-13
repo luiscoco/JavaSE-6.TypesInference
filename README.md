@@ -1,5 +1,7 @@
 # JavaSE-6.TypesInference
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 Type inference is a feature in programming languages that allows the compiler to deduce the type of a variable without explicit declaration by the programmer. 
 
 In Java, type inference is closely associated with the introduction of the var keyword in Java 10.
